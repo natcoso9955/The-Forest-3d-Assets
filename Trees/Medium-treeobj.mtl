@@ -1,0 +1,200 @@
+# Blender MTL File: 'None'
+# Material Count: 18
+
+newmtl Mesh_0100.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1233_0.dds
+
+newmtl Mesh_0109.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1363_0.dds
+
+newmtl Mesh_0114.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1428_0.dds
+
+newmtl Mesh_0120.rip.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1441_0.dds
+
+newmtl Mesh_0128.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1519_0.dds
+
+newmtl Mesh_0131.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1623_0.dds
+
+newmtl Mesh_0133.rip.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1662_0.dds
+
+newmtl Mesh_0143.rip.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1727_0.dds
+
+newmtl Mesh_0145.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1831_0.dds
+
+newmtl Mesh_0150.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1857_0.dds
+
+newmtl Mesh_0156.rip.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1909_0.dds
+
+newmtl Mesh_0160.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_1051_0.dds
+
+newmtl Mesh_0161.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_2039_0.dds
+
+newmtl Mesh_0162.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_2039_0.dds
+
+newmtl Mesh_0163.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_2039_0.dds
+
+newmtl Mesh_0164.rip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_2039_0.dds
+
+newmtl Mesh_0171.rip.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_2091_0.dds
+
+newmtl Mesh_0174.rip.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Nathaniel\\3D Objects\\_NinjaRipper\\2018.08.07_22.46.09_TheForest.exe_75996\\2018.08.07_22.52.42_TheForest.exe\\Tex_2208_0.dds
